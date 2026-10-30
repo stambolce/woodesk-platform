@@ -4,7 +4,7 @@
 
 **Оперативен систем за управување со WooCommerce.**
 
-[English](README.md) · [Македонски](README.mk.md)
+[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
 
 <img src="assets/product-hero.svg" width="100%" alt="WooDesk — OS за управување со WooCommerce; концептуална визуелизација" />
 
