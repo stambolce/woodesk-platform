@@ -2,11 +2,11 @@
 
 # WooDesk
 
-**Sistem operativ për menaxhimin e WooCommerce.**
-
 [Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
 
-<img src="assets/product-hero.svg" width="100%" alt="WooDesk — WooCommerce management OS; ilustrim konceptual" />
+<img src="assets/product-hero.svg" width="100%" alt="WooDesk — prezantim vizual i produktit" />
+
+**Sistem operativ për menaxhimin e WooCommerce.**
 
 [![Website](https://img.shields.io/badge/woodesk.mk-Official_Website-1476e8?style=for-the-badge)](https://woodesk.mk)
 [![Explore](https://img.shields.io/badge/Explore-WooDesk-14223c?style=for-the-badge)](https://woodesk.mk)
